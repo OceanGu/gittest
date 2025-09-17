@@ -4,5 +4,6 @@ package org.example;public class Main {
         System.out.println("master = " + args);
         System.out.println("master1111 = " + args);
         System.out.println("pull = " + args);
+        System.out.println("github update = " + args);
     }
 }
